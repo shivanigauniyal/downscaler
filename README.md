@@ -1,2 +1,2 @@
 # downscaler
-M-Lbased downscaling of GCM products
+ML-based downscaling of GCM products
