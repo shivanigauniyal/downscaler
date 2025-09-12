@@ -1,0 +1,48 @@
+name: scaler
+
+channel:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip 
+  - pytorch
+  - cudatoolkit
+  - omegaconf
+  - tensorboard
+  - torchvision
+  - pytorch-lightning
+  - torchmetrics
+  - matplotlib
+  - ipympl
+  - ipython
+  - jupyterlab
+  - scikit-learn
+  - numpy
+  - seaborn
+  - tqdm
+  - yaml
+  - pandas
+  - scipy
+  - xgboost
+  - lightgbm
+  - scikit-image
+  - opencv
+  - h5py
+  - joblib
+  - pillow
+  - netcdf4
+  - xarray
+  - rasterio
+  - cartopy
+  - cftime
+  - pyproj
+  - eccodes
+  - dask
+  - pip:
+      - wandb
+      - hydra-core
+      - climetlab
+      - earthpy
+      - geopy
+      - pyresample
