@@ -42,7 +42,3 @@ dependencies:
   - pip:
       - wandb
       - hydra-core
-      - climetlab
-      - earthpy
-      - geopy
-      - pyresample
